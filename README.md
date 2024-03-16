@@ -1,6 +1,6 @@
 # DetectEmergingCrises
-Daisy &amp; Nathan's Capstone Project Summer '23
 
+![Disaster-Relief-page-banner](https://github.com/dkham/dkham/assets/72950291/125f58c1-7a95-44d2-b07e-7f2acc9c61af)
 
 **Problem and Motivation**
 
@@ -31,3 +31,5 @@ We set out to find the best model for our classification task using approaches t
 **Acknowledgements**
 
 We are grateful to have the guidance and encouragements from our Capstone Advisors, Dr. Frederick Nugen and Dr. Puya H. Vahabi, of the Master of Information and Data Science program at the School of Information, University of California, Berkeley.
+
+Daisy &amp; Nathan's Capstone Project Summer '23
